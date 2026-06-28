@@ -96,3 +96,9 @@ DESIGN.md             Gamification / retention roadmap (not yet built)
 
 See [DESIGN.md](DESIGN.md) for the gamification direction (trivia identity, rivalries/crews,
 leaderboards). The current build is feature-complete for solo + multiplayer party play.
+
+---
+
+## License
+
+[MIT](LICENSE)
