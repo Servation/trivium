@@ -1,0 +1,17 @@
+# Next.js
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# Cache (persistent store - do not commit)
+quiz_cache.json
+
+# Env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
